@@ -1,0 +1,11 @@
+# local working files
+*.py
+*.json
+*.csv
+*.log
+*.txt
+*.sh
+*.bak*
+_*
+__pycache__/
+~$*
